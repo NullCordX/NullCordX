@@ -17,7 +17,7 @@
 - 🤝 Working on **CelesMQ**
 - 👯 Looking to collaborate on **Minecraft client & proxy systems**
 - 💬 Ask me about **Java, Paper, Velocity & networking**
-- 📫 Contact: **Discord — 1nstagram306**
+- 📫 Contact: **Discord: 1nstagram306**
 
 ---
 
