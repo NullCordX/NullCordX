@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=1nstagram&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7289DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Java+Developer+%E2%98%95;Minecraft+Modder+%F0%9F%8E%AE;API+Designer+%F0%9F%9A%80;Building+the+Future+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7289DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Java+Developer+%E2%98%95;Minecraft+Modder+%F0%9F%8E%AE;API+Designer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Profile Views with Custom Style -->
 <p align="center">
