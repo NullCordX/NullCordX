@@ -47,18 +47,18 @@ public class Developer {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1nstagram1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7289DA&icon_color=7289DA&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1nstagram1&theme=tokyonight&hide_border=true&background=0D1117&stroke=7289DA&ring=7289DA&fire=FF6B6B&currStreakLabel=7289DA&border_radius=10" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NullCordX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7289DA&icon_color=7289DA&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NullCordX&theme=tokyonight&hide_border=true&background=0D1117&stroke=7289DA&ring=7289DA&fire=FF6B6B&currStreakLabel=7289DA&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nstagram1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7289DA&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=1nstagram1&custom_title=Contribution%20Graph&bg_color=0D1117&color=7289DA&line=7289DA&point=FF6B6B&area_color=7289DA&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullCordX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7289DA&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=NullCordX&custom_title=Contribution%20Graph&bg_color=0D1117&color=7289DA&line=7289DA&point=FF6B6B&area_color=7289DA&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1nstagram1&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NullCordX&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <!-- Animated Divider -->
@@ -99,14 +99,14 @@ public class Developer {
 <td width="50%">
 <h3 align="center">CelesMQ</h3>
 <div align="center">
-<a href="https://github.com/1nstagram1/celesmq" target="_blank"><img src="https://img.shields.io/badge/View_Project-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<a href="https://github.com/NullCordX/celesmq" target="_blank"><img src="https://img.shields.io/badge/View_Project-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
 <p><strong>Java, RabbitMQ, Networking</strong> - High-performance message queue system for distributed Minecraft networks</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">Minecraft Client Mods</h3>
 <div align="center">
-<a href="https://github.com/1nstagram1" target="_blank"><img src="https://img.shields.io/badge/View_Profile-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="View Profile"/></a>
+<a href="https://github.com/NullCordX" target="_blank"><img src="https://img.shields.io/badge/View_Profile-7289DA?style=for-the-badge&logo=github&logoColor=white" alt="View Profile"/></a>
 <p><strong>Java, Fabric, Mixins</strong> - Custom client modifications and enhancements</p>
 </div>
 </td>
@@ -125,8 +125,8 @@ public class Developer {
   <a href="https://www.youtube.com/@nullcordx">
     <img src="https://img.shields.io/badge/YouTube-nullcordx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://github.com/1nstagram1">
-    <img src="https://img.shields.io/badge/GitHub-1nstagram1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/NullCordX">
+    <img src="https://img.shields.io/badge/GitHub-NullCordX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -137,9 +137,9 @@ public class Developer {
 
 <!-- Animated Snake Eating Contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1nstagram1/1nstagram1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1nstagram1/1nstagram1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1nstagram1/1nstagram1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NullCordX/NullCordX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NullCordX/NullCordX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NullCordX/NullCordX/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Animated Footer -->
